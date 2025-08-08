@@ -1,0 +1,13 @@
+.sp,.nsp{
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman', sans-serif;
+}
+
+.nsp{
+    background-color:rgb(217, 255, 0);
+}
+
+.sp{
+    background-color: #000000;
+    color: white;
+}
