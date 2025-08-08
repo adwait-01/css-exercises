@@ -1,0 +1,19 @@
+.sp{
+    background-color: rgb(209, 140, 94);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.nsp{
+    font-size: 18px;
+}
+
+#special{
+    font-size: 36px;
+    color: rgb(0, 0, 255)
+}
+
+#notSoSpecial{
+    background-color:rgb(87, 214, 55);
+    font-weight: bold;
+    font-size: 24px;
+}
